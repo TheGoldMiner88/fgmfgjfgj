@@ -9,7 +9,7 @@ floatpad.Name = "FloatPad"
 local loadedscript = game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/functions/viciousbeeserverhop.lua")
 
 noclip = false
-local farmVici = false
+local farmVici = true
 
 local function Tween(time, pos)
     noclip = true
